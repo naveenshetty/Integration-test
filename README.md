@@ -1,4 +1,4 @@
-# Integration Tests - [Smava](www.smava.de)
+# Integration Tests 
 
 Integration test project based on JBehave and Selenium
 
